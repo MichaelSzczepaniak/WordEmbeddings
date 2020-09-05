@@ -1,0 +1,6 @@
+# files used for local dev
+
+# directories
+glove.6B/
+.ipynb_checkpoints/
+
