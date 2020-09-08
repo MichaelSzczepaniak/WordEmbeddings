@@ -1,6 +1,13 @@
+## Fort Collins Data Science Meetup
+
+This project is the code used for the following presentations on **Word Embeddings**:
+
++ [Part I - August 11, 2020](https://www.meetup.com/Fort-Collins-Data-Science/events/bvzbtrybclbpb)
++ [Part II - September 8, 2020](https://www.meetup.com/Fort-Collins-Data-Science/events/bvzbtrybcmblb)
+
 ## Word Embeddings
 
-This project is focused on explaining what word embeddings are and how to use them in the context of text classification.  A jupyter notebook is used as the analysis platform.  Logistic regression and CNN text classifiers are built to do sentiment analysis on product reviews using bag-of-words (BOW) and word embeddings (WE's) in order illustrate these ideas.
+This project is focused on explaining what word embeddings are and how to use them in the context of text classification.  A jupyter notebook is used as the analysis platform.  Logistic regression and CNN text classifiers (TODO) are built to do sentiment analysis on product reviews using bag-of-words (BOW) and word embeddings (WE's) in order to illustrate these ideas.
 
 
 ## What are word embeddings?
@@ -19,3 +26,5 @@ In part 2, armed with some intuition, we'll look at few approaches to how WE's a
 
 [GloVe: Global Vectors for Word Representation site](https://nlp.stanford.edu/projects/glove/)
   + Pre-trained word vectors where obtained [here](http://nlp.stanford.edu/data/glove.6B.zip)
+  
+### Additional references listed in the notebook
