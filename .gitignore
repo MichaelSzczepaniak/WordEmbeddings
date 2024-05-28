@@ -4,3 +4,6 @@
 glove.6B/
 .ipynb_checkpoints/
 stash/
+
+# temp files
+.~lock*
