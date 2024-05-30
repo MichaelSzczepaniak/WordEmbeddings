@@ -1,9 +1,11 @@
 # files used for local dev
 
 # directories
-glove.6B/
+embeddings/glove.6B/
 .ipynb_checkpoints/
 stash/
 
 # temp files
 .~lock*
+
+
