@@ -22,6 +22,10 @@ In part 2, armed with some intuition, we'll look at few approaches to how WE's a
 
 ## References
 
+### What are Word Embeddings and how are they used?
+
+This is 30 minute video presentation which includes a coding demo: https://www.youtube.com/watch?v=GakXrRqKdzw
+
 ### GloVe embeddings
 
 [GloVe: Global Vectors for Word Representation site](https://nlp.stanford.edu/projects/glove/)
